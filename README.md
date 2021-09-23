@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development.
 - 🌱 I’m currently learning software engineering at Holberton School.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me; arthuremmanuel@gmail.com
+- 📫 How to reach me: arthuremmanuel@gmail.com
 
 
 ![Emediong's Github stats](https://github-readme-stats.vercel.app/api?username=Kodiankodes&show_icons=true&theme=radical)
